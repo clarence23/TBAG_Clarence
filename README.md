@@ -1,4 +1,5 @@
 Text-Based Adventure Game
+
 Introduction
 This is my Text-Based Adventure Game is built using Python, where players explore rooms, interact with characters, and engage in item-based combat. The game is designed using object-oriented programming (OOP) principles, making it modular and easy to extend.
 
