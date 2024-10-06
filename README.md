@@ -20,7 +20,7 @@
 
 ## How to Play
 
-- Use commands like "north," "south," etc., to move between rooms.Each room has its own description, and some rooms are locked and require a key to enter.
+- Use commands like "north," "south," etc., to move between rooms.
 
   
 Dave (The Zombie):
