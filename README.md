@@ -28,6 +28,7 @@ Dave (The Zombie):
 * You can fight, steal, or put him to sleep.
 * Dave's weakness is 'cheese', which you need, to win a fight.
 * You can temporarily put Dave to sleep using 'sleeping powder'.
+* You can only steal after he falls asleep or you will easily get caught!  
 * After putting him to sleep you will regain options (between fight, steal or put him to sleep again) but be at alert, you can only put him to sleep once, if you type the wrong item or same item again you will get caught!
 
 Bob (The Thief):
@@ -35,6 +36,7 @@ Bob (The Thief):
 * You can fight, bribe, steal, or put him to sleep.
 * Bob's weakness is 'light', which you need, to win a fight.
 * Again You can temporarily put Bob to sleep using 'sleeping powder'
+* You can only steal after he falls asleep or you will easily get caught! 
 * After putting him to sleep you will regain options (between fight, steal, bribe or put him to sleep again) but be at alert, you can only put him to sleep once, if you type the wrong item or same item again you will get caught!
 * Bribe is the new option here, you can only type an amount greater or equal to £10 or you will get caught!
 
