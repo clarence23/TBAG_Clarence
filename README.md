@@ -23,6 +23,7 @@
 - Use commands like "north," "south," etc., to move between rooms.Each room has its own description, and some rooms are locked and require a key to enter.
 
 - Enemies
+  
 Dave (The Zombie):
 
 * You can fight, steal, or put him to sleep.
@@ -39,15 +40,16 @@ Bob (The Thief):
 * Bribe is the new option here, you can only type an amount greater or equal to £10 or you will get caught!
 
 Friends:
-*You can encounter friendly characters like Linda, who offer hugs or accept gifts.
-*You need to give the correct gift to make them happy. (= 'flowers' in this case =)
+
+* You can encounter friendly characters like Linda, who offer hugs or accept gifts.
+* You need to give the correct gift to make them happy. (= 'flowers' in this case =)
 
 Locked Room:
-*There is a locked room that requires the 'golden key' to unlock. You need to input the correct key name to enter the room or access will be denied!
+
+* There is a locked room that requires the 'golden key' to unlock. You need to input the correct key name to enter the room or access will be denied!
 
 ## Conclusions
 - Exploration: In this new version players can continue exploring the game world even after winning battles against enemies. This encourages players to discover new areas and interact with different characters. The game finally restarts after losing or getting caught.
-
 
 
 
