@@ -19,7 +19,6 @@ bob.set_conversation("Hey! What are you doing here?")
 bob.set_weakness("light")
 ballroom.set_character(bob)
 
-# Create a Friend character
 linda = Friend("Linda", "A friendly villager who loves flowers.", favorite_gift="flowers")
 living_room.set_character(linda)
 
