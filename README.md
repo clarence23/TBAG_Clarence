@@ -22,7 +22,6 @@
 
 - Use commands like "north," "south," etc., to move between rooms.Each room has its own description, and some rooms are locked and require a key to enter.
 
-- Enemies
   
 Dave (The Zombie):
 
@@ -35,7 +34,7 @@ Bob (The Thief):
 
 * You can fight, bribe, steal, or put him to sleep.
 * Bob's weakness is 'light', which you need, to win a fight.
-* Again You can temporarily put Dave to sleep using 'sleeping powder'
+* Again You can temporarily put Bob to sleep using 'sleeping powder'
 * After putting him to sleep you will regain options (between fight, steal, bribe or put him to sleep again) but be at alert, you can only put him to sleep once, if you type the wrong item or same item again you will get caught!
 * Bribe is the new option here, you can only type an amount greater or equal to £10 or you will get caught!
 
