@@ -21,6 +21,7 @@
 ## How to Play
 
 - Use commands like "north," "south," etc., to move between rooms.
+- User-Friendly Interaction: Players can easily choose actions by typing corresponding numbers, making gameplay smooth and intuitive. For example: Typing 1 to fight. Typing 2 to bribe. Type 3 to steal, ect. This design choice minimizes text input and allows players to quickly make decisions without needing to type out full commands. 
 
   
 Dave (The Zombie):
