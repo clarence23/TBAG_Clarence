@@ -7,7 +7,7 @@
 
 ## Features
 
-- Room Navigation: Navigate through rooms like the Kitchen, Ballroom, Dining Hall, Living Room and Locked Room, each with unique descriptions.
+- Room Navigation: Move through rooms like the Kitchen, Ballroom, Dining Hall, Living Room and Locked Room, each with unique descriptions.
 
 - Character Interaction: Encounter characters like the zombie Dave, Bob the thief and the friendly Linda, engage in conversations, or fight using specific items.
 
