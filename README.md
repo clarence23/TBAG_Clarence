@@ -13,7 +13,7 @@
 
 - Items: Defeat enemies by using the correct item to exploit their weaknesses.
 
-- Stealing: Attempt to steal loot once from enemies, only after putting them to sleep.
+- Stealing: Get one attempt to steal loot from enemies after putting them to sleep.
 
 - Locked Room: Explore locked room and use the correct named key to unlock it. 
 
