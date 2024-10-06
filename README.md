@@ -51,7 +51,7 @@ Locked Room:
 
 ## Conclusions
 - Exploration: In this new version players can continue exploring the game world even after winning battles against enemies. This encourages players to discover new areas and interact with different characters. The game finally restarts after losing or getting caught.
-- User-Friendly Interaction: Users can easily choose actions by typing corresponding numbers, making gameplay smooth and intuitive. For example: Typing 1 to fight. Typing 2 to bribe. Type 3 to steal, ect. This design choice minimizes text input and allows players to quickly make decisions without needing to type out full commands.
+- User-Friendly Interaction: Users can also easily choose actions by typing corresponding numbers, making gameplay smooth and intuitive. For example: Typing 1 to fight. Typing 2 to bribe. Type 3 to steal, ect. This design choice minimizes text input and allows players to quickly make decisions without needing to type out full commands.
 
 
 
